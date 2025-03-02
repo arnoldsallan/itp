@@ -76,7 +76,6 @@ Final Code: for (let i = 1; i <= 100; i++) {
 
 I then went to check the code using the Java sandbox you showed us in class.  
 
-This was the result that popped out! 
 
 The reason I decided to use GPT for this assignment is so I didn't mess up typing out the code line for line.  It definitely helped me understand how to use loops and conditions in this format.  I made sure to check the code myself to see if it ran properly, which it seemed like it did.  I see the value of using a GPT like thing to help with these kinds of things, especially for someone like myself who is really bad with numbers and math, but I also see that you can't just trust it wholeheartedly, and that you need to triple check your work! 
 
