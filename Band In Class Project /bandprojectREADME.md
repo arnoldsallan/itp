@@ -12,6 +12,8 @@ Last part was adding the link to our "debut performance", and we did that to mak
 
 We tested our website on our individual computers and it worked!  WOOOOOOOOOO!!!
 
+Self Assessment/Peer:  I feel like we all worked collectively, and everyone did different tasks.  One person handled typing the code, I helped with finding code for things like the hyper link, someone else helped make decisions with color, fonts, images, etc, and i think everyone worked well together in trying to find solutions, even if the solutions that came up didn't necessarily work the first time.  
+
 Link to our Website: https://altheaw21.github.io
 
 
